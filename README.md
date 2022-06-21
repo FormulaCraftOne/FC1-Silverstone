@@ -10,7 +10,7 @@
 
 
 [![YouTube Video][yt-thumbnail]][yt-vidlink]
-<img src="https://user-images.githubusercontent.com/96582306/174482568-972f203a-b036-41ad-8c3d-93e66bbffb95.png" width="25%"></img><img src="https://user-images.githubusercontent.com/96582306/174482538-d7713451-eee5-4394-b62c-577963d48beb.png" width="25%"></img><img src="https://user-images.githubusercontent.com/96582306/174482634-c884ea62-0bd9-4694-bb01-e23658f30f46.png" width="25%"></img><img src="https://user-images.githubusercontent.com/96582306/174482671-6db4cce4-6063-4d75-a283-ee5b08f097ae.png" width="25%"></img>
+<img src="https://user-images.githubusercontent.com/96582306/174482568-972f203a-b036-41ad-8c3d-93e66bbffb95.png" width="25%"><img src="https://user-images.githubusercontent.com/96582306/174482538-d7713451-eee5-4394-b62c-577963d48beb.png" width="25%"><img src="https://user-images.githubusercontent.com/96582306/174482634-c884ea62-0bd9-4694-bb01-e23658f30f46.png" width="25%"><img src="https://user-images.githubusercontent.com/96582306/174482671-6db4cce4-6063-4d75-a283-ee5b08f097ae.png" width="25%">
 
 
 As F1 pulls up to the British Grand Prix, the Minecraft Ice Boat Racing 1:1 series follows!
